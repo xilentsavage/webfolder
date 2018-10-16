@@ -1,3 +1,3 @@
 <a href="https://stafa.band" title="stafaband">Stafaband</a>
-// <a href="https://www.nagapulsa.com" title="Nagapulsa">Naga Pulsa</a>
+// <a href="https://www.nagapulsa.com" title="Pulsa Via PayPal">Pulsa Via PayPal</a>
 // <a href="https://www.kiosgaruda.id" title="Kios Garuda">Kios Garuda</a>
